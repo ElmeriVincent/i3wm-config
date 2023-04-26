@@ -27,7 +27,7 @@ git clone https://github.com/ElmeriVincent/i3wm-config.git
 ```
 Now open it (i3wm-config folder) and copy everything inside it and replace everything inside the `.config/i3` the filepath to that should be something like this: `/home/<username>/.config/i3/` once you have done that now press `$mod+Shift+c reload`to refresh your window manager with these changes.
 
-Good job!! Now you should see the beautifully colored top bar and other stuff like purple border on your opened windows. You may wonder why the wallpaper has not changed.. well I haven't added to my configuration due me often changes my wallpapers but you can it to yours if you want.
+Good job!! Now you should see the beautifully colored top bar and other stuff like purple border on your opened windows. You may wonder why the wallpaper has not changed.. well I haven't added to my configuration due me often changing my wallpaper but you can put it to yours if you want.
 
 ### Additional
 I also like to use gnome-screenshots so my PrtSc binding uses it. To install it do:
